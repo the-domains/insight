@@ -1,0 +1,28 @@
+name: Insight
+favicon: null
+layout_spectrum: 0.5690656658262014
+typography_spectrum: 0.7247763960622251
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7340218483004719
+  lightness: 0.7446817068848759
+  saturation: 0.6451397894416004
+  rhythmicContrast: 0.601300849346444
+purpose: []
